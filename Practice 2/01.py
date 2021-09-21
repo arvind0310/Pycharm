@@ -45,7 +45,7 @@
 #     a=int(input())
 #     b=int(input())
 #     c=a^b
-#     x=(bin(c)[2:])
+#     x=(bin(c)[2:]) # string type
 #     sum=0
 #     for i in x:
 #         sum = sum + int(i)
@@ -72,3 +72,8 @@
 # a=float(input())
 # b=float(input())
 # print(addNumber(a,b))
+
+
+
+# s=bin(8)
+# prin(type(s))   # string
