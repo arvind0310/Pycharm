@@ -35,7 +35,7 @@
 # print(a[2:]) #onwards 2nd index
 # print(a[1:5])
 # print(a[-1])
-# print(a[-1:]) #onwards from -1th index (nothing here )
+# print(a[-1:]) #onwards from -1th index ( here 6 only)
 
 # print(a[-2:]) #onwards from -2nd index
 #
